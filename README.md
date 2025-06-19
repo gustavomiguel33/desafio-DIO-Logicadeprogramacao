@@ -16,4 +16,10 @@ Calculadora de partidas Rankeadas
   Se vitórias for entre 21 e 50 = Prata.
   Se vitórias for entre 51 e 80 = Ouro.
   Se vitórias for entre 81 e 90 = Diamante.
-  
+  Se vitórias for entre 91 e 100 = Lendário
+  Se vitórias for maior ou igual a 101 = Imortal.
+
+## Saída:
+
+Ao final deve exibir a mensagem:
+"O Herói tem o saldo de {saldo de vitórias} está no nível de {nível}.
